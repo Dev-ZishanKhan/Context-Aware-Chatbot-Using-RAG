@@ -5,7 +5,8 @@
 ---
 ## 🌐 Live Demo
 
-👉 **[Click here to try the chatbot live!]([https://context-aware-chatbot-using-rag.streamlit.app](https://context-aware-chatbot-using-rag-bzhtfcq2xwuatlcch3ddyb.streamlit.app/))**
+👉 **[Click here to try the chatbot live!](https://context-aware-chatbot-using-rag-bzhtfcq2xwuatlcch3ddyb.streamlit.app/
+)**
 
 
 ## 📌 Objective

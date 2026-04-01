@@ -94,7 +94,7 @@ Build a context-aware chatbot that:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Dev-ZishanKhan/Context-Aware-Chatbot-Using-RAG
-cd rag-chatbot-aiml
+cd Context-Aware-Chatbot-Using-RAG
 ```
 
 ### 2. Install Dependencies

@@ -53,7 +53,7 @@ if "vectorstore" not in st.session_state:
         st.session_state.llm = ChatGroq(
             model_name="llama-3.3-70b-versatile",
             temperature=0.7,
-            api_key=os.environ["GROQ_API_KEY"]
+            api_key=os.environ.get("GROQ_API_KEY") or st.secrets.get("GROQ_API_KEY")
         )
     st.success("✅ Knowledge Base Loaded!")
 

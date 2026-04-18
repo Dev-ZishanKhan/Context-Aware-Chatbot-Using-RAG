@@ -93,7 +93,7 @@ Build a context-aware chatbot that:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Dev-ZishanKhan/Context-Aware-Chatbot-Using-RAG
+git clone https://github.com/Zishan-AI-Eng/Context-Aware-Chatbot-Using-RAG
 cd Context-Aware-Chatbot-Using-RAG
 ```
 
@@ -139,11 +139,8 @@ rag-chatbot-aiml/
 ## 👨‍💻 Author
 
 **Your Name**
-- 🌐 GitHub: [Dev-ZishanKhan](https://github.com/Dev-ZishanKhan)
+- 🌐 GitHub: [Dev-ZishanKhan](https://github.com/Zishan-AI-Eng)
 - 💼 LinkedIn: [ZishanCoder](https://www.linkedin.com/in/zishan-coderx-048483370/)
 
 ---
 
-## 📝 License
-
-This project is part of the **DevelopersHub Corporation AI/ML Engineering Internship** — Advanced Task 4.
